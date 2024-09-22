@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32802.440
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NX_Remote_App", "NX_Remote_App\NX_Remote_App.csproj", "{95DCB198-112B-46B7-8BC8-918F2BFE2BCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95DCB198-112B-46B7-8BC8-918F2BFE2BCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DCB198-112B-46B7-8BC8-918F2BFE2BCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DCB198-112B-46B7-8BC8-918F2BFE2BCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DCB198-112B-46B7-8BC8-918F2BFE2BCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9501CFC-C97B-4585-A5F4-49FB9264806C}
+	EndGlobalSection
+EndGlobal
